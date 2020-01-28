@@ -23,7 +23,7 @@ The user can select the size of training dataset and vary its contamination rate
 
 The simplest way to run the hands-on exercises with **Google's Colab** or **Binder** in the cloud and interacting with them through your browser. Alternatively, you can choose to take a look at the already executed notebook in the **Offline View**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/amld20-anomaly-detection/blob/master/AMLD20_anomalies_detection_view.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/amld20-anomaly-detection/master?filepath=AMLD20_anomalies_detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/amld20-anomaly-detection/blob/master/AMLD20_anomalies_detection.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/amld20-anomaly-detection/master?filepath=AMLD20_anomalies_detection.ipynb)
 [![Generic badge](https://img.shields.io/badge/Offline_View-Open-Blue.svg)](https://nbviewer.jupyter.org/github/epfl-exts/amld20-anomaly-detection/blob/master/static/AMLD20_anomalies_detection_view.ipynb)
 
 **Getting started:** 
